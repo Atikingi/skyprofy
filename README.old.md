@@ -1,2 +1,0 @@
-# skyprofy
-Music react app
